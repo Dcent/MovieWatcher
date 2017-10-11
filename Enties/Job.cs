@@ -8,6 +8,7 @@ namespace Enties
 {
     public class Job
     {
+        public int JobId { get; set; }
         public string SourcePath { get; set; }
         public string DestinationPath { get; set; }
         public DateTime Started { get; set; }
