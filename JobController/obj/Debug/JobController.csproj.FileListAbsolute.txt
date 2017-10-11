@@ -1,0 +1,10 @@
+c:\users\hq104667\source\repos\WindowsFormsApp1\JobController\bin\Debug\JobController.dll
+c:\users\hq104667\source\repos\WindowsFormsApp1\JobController\bin\Debug\JobController.pdb
+c:\users\hq104667\source\repos\WindowsFormsApp1\JobController\bin\Debug\DataTransfer.dll
+c:\users\hq104667\source\repos\WindowsFormsApp1\JobController\bin\Debug\Enties.dll
+c:\users\hq104667\source\repos\WindowsFormsApp1\JobController\bin\Debug\DataTransfer.pdb
+c:\users\hq104667\source\repos\WindowsFormsApp1\JobController\bin\Debug\Enties.pdb
+c:\users\hq104667\source\repos\WindowsFormsApp1\JobController\obj\Debug\JobController.csprojResolveAssemblyReference.cache
+c:\users\hq104667\source\repos\WindowsFormsApp1\JobController\obj\Debug\JobController.csproj.CoreCompileInputs.cache
+c:\users\hq104667\source\repos\WindowsFormsApp1\JobController\obj\Debug\JobController.dll
+c:\users\hq104667\source\repos\WindowsFormsApp1\JobController\obj\Debug\JobController.pdb

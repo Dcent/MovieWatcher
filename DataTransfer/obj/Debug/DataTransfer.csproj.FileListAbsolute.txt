@@ -1,0 +1,8 @@
+c:\users\hq104667\source\repos\WindowsFormsApp1\DataTransfer\bin\Debug\DataTransfer.dll
+c:\users\hq104667\source\repos\WindowsFormsApp1\DataTransfer\bin\Debug\DataTransfer.pdb
+c:\users\hq104667\source\repos\WindowsFormsApp1\DataTransfer\bin\Debug\Enties.dll
+c:\users\hq104667\source\repos\WindowsFormsApp1\DataTransfer\bin\Debug\Enties.pdb
+c:\users\hq104667\source\repos\WindowsFormsApp1\DataTransfer\obj\Debug\DataTransfer.csprojResolveAssemblyReference.cache
+c:\users\hq104667\source\repos\WindowsFormsApp1\DataTransfer\obj\Debug\DataTransfer.csproj.CoreCompileInputs.cache
+c:\users\hq104667\source\repos\WindowsFormsApp1\DataTransfer\obj\Debug\DataTransfer.dll
+c:\users\hq104667\source\repos\WindowsFormsApp1\DataTransfer\obj\Debug\DataTransfer.pdb
