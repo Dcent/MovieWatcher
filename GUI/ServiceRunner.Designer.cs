@@ -31,6 +31,7 @@
             this.runBtn = new System.Windows.Forms.Button();
             this.serviceStatusLbl = new System.Windows.Forms.Label();
             this.MainPanel = new System.Windows.Forms.Panel();
+            this.AddBtn = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // runBtn
@@ -58,11 +59,22 @@
             this.MainPanel.Size = new System.Drawing.Size(455, 421);
             this.MainPanel.TabIndex = 2;
             // 
+            // AddBtn
+            // 
+            this.AddBtn.Location = new System.Drawing.Point(373, 474);
+            this.AddBtn.Name = "AddBtn";
+            this.AddBtn.Size = new System.Drawing.Size(71, 34);
+            this.AddBtn.TabIndex = 3;
+            this.AddBtn.Text = "+";
+            this.AddBtn.UseVisualStyleBackColor = true;
+            this.AddBtn.Click += new System.EventHandler(this.AddBtn_Click);
+            // 
             // ServiceRunnerForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(564, 520);
+            this.Controls.Add(this.AddBtn);
             this.Controls.Add(this.MainPanel);
             this.Controls.Add(this.serviceStatusLbl);
             this.Controls.Add(this.runBtn);
@@ -79,6 +91,7 @@
         private System.Windows.Forms.Button runBtn;
         private System.Windows.Forms.Label serviceStatusLbl;
         private System.Windows.Forms.Panel MainPanel;
+        private System.Windows.Forms.Button AddBtn;
     }
 }
 
